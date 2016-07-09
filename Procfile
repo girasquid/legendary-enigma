@@ -1,1 +1,1 @@
-app: rackup
+web: bundle exec rackup
